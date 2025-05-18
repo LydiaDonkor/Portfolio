@@ -25,8 +25,7 @@ Hello! I'm Lydia Donkor, an insight-driven and detail-oriented Data Analyst with
 
 <a href="Cafe Harmony Report.pdf">Download the full report here (pdf file)</a>
 
-
-**A pharmaceutical company's analysis using Power BI. This project focuses on the sales and customer performance analysis evaluating the sales trend, customer demographics and revenue distribution. **
+**A pharmaceutical company's analysis using Power BI. This project focuses on the sales and customer performance analysis evaluating the sales trend, customer demographics and revenue distribution.**
 
 ![image](NovaMed Solutions - Sales Dashboard.png)
 
