@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Lydia Donkor, an insight-driven and detail-oriented Data Analyst with a strong foundation in data handling, reporting, and visualization. I bring a unique blend of analytical skills and business operations experience, with a proven ability to turn raw data into meaningful insights that support strategic decision-making.
+Hello!🙂 I'm Lydia Donkor, an insight-driven and detail-oriented Data Analyst with a strong foundation in data handling, reporting, and visualization. I bring a unique blend of analytical skills and business operations experience, with a proven ability to turn raw data into meaningful insights that support strategic decision-making.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
