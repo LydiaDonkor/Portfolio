@@ -32,7 +32,7 @@ Hello! I'm Lydia Donkor, an insight-driven and detail-oriented Data Analyst with
 
 ![image](NovaMed Solutions - Customer Dashboard.png)
 
-<a href="Cafe Harmony Report.pdf">Download the full report here (pdf file)</a>
+<a href="NovaMed Solutions Project.pdf">Download the full report here (pdf file)</a>
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
