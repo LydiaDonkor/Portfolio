@@ -58,14 +58,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     <tr>
       <td>🌐</td>
       <td><a href="www.linkedin.com/in/lydia-donkor-181a45357">My LinkedIn Profile</a></td>
-    </tr>
-    <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
-    </tr>
-  </tbody>
-</table>
-
+   
    
 
 
