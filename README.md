@@ -56,12 +56,8 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
       <td>Middlesbrough, UK</td>
     </tr>
     <tr>
-      <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
-    </tr>
-    <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="www.linkedin.com/in/lydia-donkor-181a45357">My LinkedIn Profile</a></td>
     </tr>
     <tr>
       <td>📺</td>
