@@ -26,8 +26,7 @@ Hello! I'm Lydia Donkor, an insight-driven and detail-oriented Data Analyst with
 <a href="Cafe Harmony Report.pdf">Download the full report here (pdf file)</a>
 
 
-
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**A pharmaceutical company's analysis using Power BI. This project focuses on the sales and customer performance analysis evaluating the sales trend, customer demographics and revenue distribution. **
 
 ![image](2 anietie etuk data analytics sales project.jpg)
 
