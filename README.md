@@ -23,8 +23,6 @@ Hello! I'm Lydia Donkor, an insight-driven and detail-oriented Data Analyst with
 
 ![image](Cafe Harmony.png)
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
-
 <a href="Cafe Harmony Report.pdf">Download the full report here (pdf file)</a>
 
 
