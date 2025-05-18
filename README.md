@@ -28,11 +28,9 @@ Hello! I'm Lydia Donkor, an insight-driven and detail-oriented Data Analyst with
 
 **A pharmaceutical company's analysis using Power BI. This project focuses on the sales and customer performance analysis evaluating the sales trend, customer demographics and revenue distribution. **
 
-![image](2 anietie etuk data analytics sales project.jpg)
+![image](NovaMed Solutions - Sales Dashboard.png)
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+<a href="Cafe Harmony Report.pdf">Download the full report here (pdf file)</a>
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
