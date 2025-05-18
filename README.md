@@ -30,7 +30,7 @@ Hello! I'm Lydia Donkor, an insight-driven and detail-oriented Data Analyst with
 
 ![image](NovaMed Solutions - Sales Dashboard.png)
 
-![image](NovaMed Solutions - Sales Dashboard.png)
+![image](NovaMed Solutions - Customer Dashboard.png)
 
 <a href="Cafe Harmony Report.pdf">Download the full report here (pdf file)</a>
 
