@@ -7,21 +7,15 @@ Hello! I'm Lydia Donkor, an insight-driven and detail-oriented Data Analyst with
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I'M GREAT AT
 
-- Data Cleaning 
-- Data Story Telling
-- Data Visualisation
-- Problem Solving 
+- ✅ Data Cleaning 
+- ✅ Data Storytelling
+- ✅ Data Visualisation
+- ✅ Problem Solving 
 
-
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
-
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
-
+ I take great enthusiasm in uncovering patterns, solving problems, and presenting data in a clear, actionable way.
 
 <!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+## MY PROJECTS
 
 *A glimpse of some of the projects I've been working on.*
 
