@@ -20,6 +20,7 @@ Hello! I'm Lydia Donkor, an insight-driven and detail-oriented Data Analyst with
 *A glimpse of some of the projects I've been working on.*
 
 **This Report analyses the performance of a cafe using Microsoft Excel and it answers key business questions such as the best performing menu item and the customer profile that spends the most**
+
 ![image](Cafe Harmony.png)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
