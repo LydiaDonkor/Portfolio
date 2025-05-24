@@ -29,8 +29,6 @@ Hello!🙂 I'm Lydia Donkor, an insight-driven and detail-oriented Data Analyst 
 
 ![image](NovaMed Solutions - Sales Dashboard.png)
 
-![image](NovaMed Solutions - Customer Dashboard.png)
-
 <a href="NovaMed Solutions Project.pdf">Download the full report here (pdf file)</a>
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
