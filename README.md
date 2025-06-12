@@ -35,7 +35,7 @@ Hello!🙂 I'm Lydia Donkor, an insight-driven and detail-oriented Data Analyst 
 
 ![image](MedX Customer Analysis.png)
 
-<a href="MedX Report.doc">Download the Report here (pdf file)</a>
+<a href="MedX Report.pdf">Download the full report here (pdf file)</a>
 
 
 ## CONTACT DETAILS
