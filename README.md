@@ -31,7 +31,7 @@ Hello!🙂 I'm Lydia Donkor, an insight-driven and detail-oriented Data Analyst 
 
 <a href="NovaMed Solutions Project.pdf">Download the full report here (pdf file)</a>
 
-**This project analyses the product, Customer Behaviour and sales Trend of a leading pharmaceutical company.**
+**This project analyses the product, Customer Behaviour and sales Trend of a leading pharmaceutical company using Power BI.**
 
 ![image](3 anietie etuk data analytics agro project.jpg)
 
