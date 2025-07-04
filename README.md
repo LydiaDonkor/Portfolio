@@ -52,8 +52,7 @@ Hello!🙂 I'm Lydia Donkor, an insight-driven and detail-oriented Data Analyst 
       <td>Middlesbrough, UK</td>
     </tr>
     <tr>
-      <td>🌐</td>
-      <td><a href="www.linkedin.com/in/lydia-donkor-181a45357">My LinkedIn Profile</a></td>
+      
    
    
 
