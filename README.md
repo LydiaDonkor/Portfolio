@@ -39,7 +39,7 @@ Hello!🙂 I'm Lydia Donkor, an insight-driven and detail-oriented Data Analyst 
 
 **This project focuses on employee retention, performance and salary analysis by using SQL to extract data from a database.**
 
-![image](MedX Customer Analysis.png)
+![image](SQL image.png)
 
 <a href="Next Gen Corp. Project.pdf">Download the full report here (pdf file)</a>
 
