@@ -45,7 +45,7 @@ Hello!🙂 I'm Lydia Donkor, an insight-driven and detail-oriented Data Analyst 
 
 **This project aims to investigate insurance claims,identify and flag high-risk claims based on predefined fraud indicators using Google Sheets and Power BI.**
 
-![image](Insurance Fraud Risk.jpg)
+![image](Fraud Risk Analysis.png)
 
 <a href="Aurora Assurance Ltd Report.pdf">Download the full report here (pdf file)</a>
 
