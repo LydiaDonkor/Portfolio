@@ -47,7 +47,7 @@ Hello!🙂 I'm Lydia Donkor, an insight-driven and detail-oriented Data Analyst 
 
 ![image](Insurance Fraud Risk.jpg)
 
-<a href="Next Gen Corp. Project.pdf">Download the full report here (pdf file)</a>
+<a href="Aurora Assuarance Ltd Report.pdf">Download the full report here (pdf file)</a>
 
 ## CONTACT DETAILS
 
