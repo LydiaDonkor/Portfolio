@@ -43,6 +43,12 @@ Hello!🙂 I'm Lydia Donkor, an insight-driven and detail-oriented Data Analyst 
 
 <a href="Next Gen Corp. Project.pdf">Download the full report here (pdf file)</a>
 
+**This project aims to investigate insurance claims,identify and flag high-risk claims based on predefined fraud indicators using Google Sheets and Power BI.**
+
+![image](SQL image.png)
+
+<a href="Next Gen Corp. Project.pdf">Download the full report here (pdf file)</a>
+
 ## CONTACT DETAILS
 
 *Let’s connect and see how we can make a difference together!*
