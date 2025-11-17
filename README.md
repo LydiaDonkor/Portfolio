@@ -54,7 +54,7 @@ Hello!🙂 I'm Lydia Donkor, an insight-driven and detail-oriented Data Analyst 
 ![image](Veritas Bank.png)
 
 
-<a href="">Download the full report here (pdf file)</a>
+<a href="Veritas Bank Report.pdf">Download the full report here (pdf file)</a>
 
 ## CONTACT DETAILS
 
