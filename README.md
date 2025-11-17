@@ -50,7 +50,11 @@ Hello!🙂 I'm Lydia Donkor, an insight-driven and detail-oriented Data Analyst 
 <a href="Aurora Assurance Ltd Report.pdf">Download the full report here (pdf file)</a>
 
 **This project aims to establish churn drivers based on account activity and demographics, understand and compare churn behaviour between the UK, Germany, and France using Microsoft SQL and Power BI.**
-![image]()
+
+![image](Veritas Bank.png)
+
+
+<a href="">Download the full report here (pdf file)</a>
 
 ## CONTACT DETAILS
 
